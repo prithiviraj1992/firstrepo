@@ -28,7 +28,7 @@ import xlsxwriter
 
 #===========================================   CLM & JIRA CREDENTIALS ============================================================
 username = 'psundarasamy'
-password = 'xxxx'
+password = 'xxxxf'
 # Storage path to store the report in HTML format
 Storage_path = "C:\\DOC_SCRIPT\\CRITICAL_BLOCKER\\HCDTS\\"
 
